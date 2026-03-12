@@ -86,4 +86,7 @@ java develop.siralamamain
 ```
 
 ---
+## 📄 Lisans
+
 Bu proje eğitim amaçlı geliştirilmiştir.
+
