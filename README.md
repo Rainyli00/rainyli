@@ -19,7 +19,6 @@
 - [Menü Seçenekleri](#-menü-seçenekleri)
 - [Dosya Yapısı](#-dosya-yapısı)
 - [Kurulum ve Çalıştırma](#-kurulum-ve-çalıştırma)
-- [Örnek Kullanım](#-örnek-kullanım)
 
 ---
 
@@ -87,10 +86,4 @@ java develop.siralamamain
 ```
 
 ---
-
-
----
-
-<p align="center">
-  Geliştirici: <strong>rainyli</strong>
-</p>
+Bu proje eğitim amaçlı geliştirilmiştir.
