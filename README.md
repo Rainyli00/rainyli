@@ -85,8 +85,4 @@ javac -d . siralama.java siralamamain.java
 java develop.siralamamain
 ```
 
----
-## 📄 Lisans
-
-Bu proje eğitim amaçlı geliştirilmiştir.
 
